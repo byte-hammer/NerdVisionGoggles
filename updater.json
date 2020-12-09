@@ -1,0 +1,10 @@
+{
+    "name": "NerdVisionGoggles",
+    "author": "BitWave",
+    "version": "1.0.0",
+    "forceDowngrade": false,
+    "downloadUpdateUrl": "https://codeload.github.com/byte-hammer/NerdVisionGoggles/zip/main",
+    "excludeFromUpdate": [ 
+        "settings.json" 
+    ]
+}
