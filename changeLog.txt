@@ -1,0 +1,2 @@
+1.0.0
+    Initial release. Upgraded T-7 thermals to be clean, fullscreen, and to also allow you to see surface textures, lights, and shadows.

@@ -1,0 +1,25 @@
+{
+    "BASIC SETTING": "Choose BlackHot or Fusion",
+    "RampPalette": "BlackHot",
+
+    "ADVANCED SETTINGS": "Tamper with at your own peril",
+    "DepthFade": 0.01,
+    "RoughnessCoef": 0.0,
+    "SpecularCoef": 1.0,
+    "MainTexColorCoef": 1.0,
+    "MinimumTemperatureValue": 0.30,
+    "Intensity": 2.5,
+    "DiffuseIntensity": 0.0,
+    "RampShift": -0.059,
+    "HeatMin": 0.55,
+    "ColdMax": 0.462,
+    "IsNoisy": false,
+    "NoiseIntensity": 0,
+    "IsFpsStuck": false,
+    "IsGlitch": false,
+    "IsMotionBlurred": false,
+    "Mask": "Thermal",
+    "MaskSize": 10,
+    "IsPixelated": false,
+    "PixelationBlockCount": 256
+}
